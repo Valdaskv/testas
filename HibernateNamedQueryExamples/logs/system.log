@@ -1,0 +1,17 @@
+2019-03-02 11:34:05,655 +0200 [main] INFO  (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2019-03-02 11:34:05,669 +0200 [main] INFO  (Version.java:54) - HHH000412: Hibernate Core {4.3.5.Final}
+2019-03-02 11:34:05,675 +0200 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2019-03-02 11:34:05,678 +0200 [main] INFO  (Environment.java:346) - HHH000021: Bytecode provider name : javassist
+2019-03-02 11:34:05,702 +0200 [main] INFO  (Configuration.java:2073) - HHH000043: Configuring from resource: hibernate.cfg.xml
+2019-03-02 11:34:05,702 +0200 [main] INFO  (Configuration.java:2092) - HHH000040: Configuration resource: hibernate.cfg.xml
+2019-03-02 11:34:05,775 +0200 [main] INFO  (Configuration.java:757) - HHH000221: Reading mappings from resource: named-queries.hbm.xml
+2019-03-02 11:34:06,070 +0200 [main] INFO  (Configuration.java:2214) - HHH000041: Configured SessionFactory: null
+2019-03-02 11:34:06,220 +0200 [main] WARN  (DriverManagerConnectionProviderImpl.java:93) - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-03-02 11:34:06,235 +0200 [main] INFO  (DriverManagerConnectionProviderImpl.java:166) - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/TestDB]
+2019-03-02 11:34:06,235 +0200 [main] INFO  (DriverManagerConnectionProviderImpl.java:175) - HHH000046: Connection properties: {user=root, password=****}
+2019-03-02 11:34:06,236 +0200 [main] INFO  (DriverManagerConnectionProviderImpl.java:180) - HHH000006: Autocommit mode: false
+2019-03-02 11:34:06,237 +0200 [main] INFO  (DriverManagerConnectionProviderImpl.java:102) - HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-03-02 11:34:07,214 +0200 [main] INFO  (Dialect.java:145) - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-03-02 11:34:07,389 +0200 [main] INFO  (TransactionFactoryInitiator.java:62) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2019-03-02 11:34:07,394 +0200 [main] INFO  (ASTQueryTranslatorFactory.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2019-03-02 11:34:08,138 +0200 [main] INFO  (DriverManagerConnectionProviderImpl.java:281) - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost/TestDB]

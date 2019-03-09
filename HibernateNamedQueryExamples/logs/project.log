@@ -1,0 +1,43 @@
+2019-03-02 11:34:08,086 +0200 [main] INFO  (HibernateNamedQueryExample.java:42) - List of Employees::1,San Jose
+2019-03-02 11:34:08,087 +0200 [main] INFO  (HibernateNamedQueryExample.java:42) - List of Employees::2,Santa Clara
+2019-03-02 11:34:08,087 +0200 [main] INFO  (HibernateNamedQueryExample.java:42) - List of Employees::3,Bangalore
+2019-03-02 11:34:08,087 +0200 [main] INFO  (HibernateNamedQueryExample.java:42) - List of Employees::4,New Delhi
+2019-03-02 11:34:08,101 +0200 [main] INFO  (HibernateNamedQueryExample.java:49) - Employee Name=David, City=Santa Clara
+2019-03-02 11:34:08,105 +0200 [main] INFO  (HibernateNamedQueryExample.java:56) - List of Employees::3,300.0
+2019-03-02 11:34:08,105 +0200 [main] INFO  (HibernateNamedQueryExample.java:56) - List of Employees::4,400.0
+2019-03-02 11:34:08,114 +0200 [main] INFO  (HibernateNamedQueryExample.java:63) - List of Address::1::95129::Pankaj
+2019-03-02 11:34:08,114 +0200 [main] INFO  (HibernateNamedQueryExample.java:63) - List of Address::2::95051::David
+2019-03-02 11:34:08,114 +0200 [main] INFO  (HibernateNamedQueryExample.java:63) - List of Address::3::560100::Lisa
+2019-03-02 11:34:08,114 +0200 [main] INFO  (HibernateNamedQueryExample.java:63) - List of Address::4::100100::Jack
+2019-03-02 11:34:08,123 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - 1::
+2019-03-02 11:34:08,123 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - Albany Dr::
+2019-03-02 11:34:08,123 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - San Jose::
+2019-03-02 11:34:08,124 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - 95129::
+2019-03-02 11:34:08,124 +0200 [main] INFO  (HibernateNamedQueryExample.java:74) - 
+
+2019-03-02 11:34:08,124 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - 2::
+2019-03-02 11:34:08,124 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - Arques Ave::
+2019-03-02 11:34:08,124 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - Santa Clara::
+2019-03-02 11:34:08,124 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - 95051::
+2019-03-02 11:34:08,124 +0200 [main] INFO  (HibernateNamedQueryExample.java:74) - 
+
+2019-03-02 11:34:08,124 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - 3::
+2019-03-02 11:34:08,124 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - BTM 1st Stage::
+2019-03-02 11:34:08,124 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - Bangalore::
+2019-03-02 11:34:08,125 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - 560100::
+2019-03-02 11:34:08,125 +0200 [main] INFO  (HibernateNamedQueryExample.java:74) - 
+
+2019-03-02 11:34:08,128 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - 4::
+2019-03-02 11:34:08,128 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - City Centre::
+2019-03-02 11:34:08,128 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - New Delhi::
+2019-03-02 11:34:08,128 +0200 [main] INFO  (HibernateNamedQueryExample.java:72) - 100100::
+2019-03-02 11:34:08,128 +0200 [main] INFO  (HibernateNamedQueryExample.java:74) - 
+
+2019-03-02 11:34:08,132 +0200 [main] INFO  (HibernateNamedQueryExample.java:81) - Employee Info::Id= 1, Name= Pankaj, Salary= 100.0, {Address= AddressLine1= Albany Dr, City=San Jose, Zipcode=95129}
+2019-03-02 11:34:08,132 +0200 [main] INFO  (HibernateNamedQueryExample.java:83) - Address Info::AddressLine1= Albany Dr, City=San Jose, Zipcode=95129
+2019-03-02 11:34:08,132 +0200 [main] INFO  (HibernateNamedQueryExample.java:81) - Employee Info::Id= 2, Name= David, Salary= 200.0, {Address= AddressLine1= Arques Ave, City=Santa Clara, Zipcode=95051}
+2019-03-02 11:34:08,132 +0200 [main] INFO  (HibernateNamedQueryExample.java:83) - Address Info::AddressLine1= Arques Ave, City=Santa Clara, Zipcode=95051
+2019-03-02 11:34:08,133 +0200 [main] INFO  (HibernateNamedQueryExample.java:81) - Employee Info::Id= 3, Name= Lisa, Salary= 300.0, {Address= AddressLine1= BTM 1st Stage, City=Bangalore, Zipcode=560100}
+2019-03-02 11:34:08,133 +0200 [main] INFO  (HibernateNamedQueryExample.java:83) - Address Info::AddressLine1= BTM 1st Stage, City=Bangalore, Zipcode=560100
+2019-03-02 11:34:08,133 +0200 [main] INFO  (HibernateNamedQueryExample.java:81) - Employee Info::Id= 4, Name= Jack, Salary= 400.0, {Address= AddressLine1= City Centre, City=New Delhi, Zipcode=100100}
+2019-03-02 11:34:08,133 +0200 [main] INFO  (HibernateNamedQueryExample.java:83) - Address Info::AddressLine1= City Centre, City=New Delhi, Zipcode=100100
